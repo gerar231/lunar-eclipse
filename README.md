@@ -1,2 +1,2 @@
 # lunar-eclipse
-Final Composition from Digital Sound Synthesis Course (DXARTS 461). 
+Final composition from digital sound synthesis course (DXARTS 461). 
