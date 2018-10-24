@@ -1,0 +1,22 @@
+LUNAR ECLIPSE (?):
+
+Lunar Eclipse is a piece created in awe of Barry Truax's Solar Ellipse, inspired by Truax's impressive use of FM synthesis
+complemented by an intriguing track organization structure. If were to imagine Solar Ellipse 
+as a vibrant work and energizing work, imagine Lunar Eclipse as a work analogous as the moon is to the sun, cool, mysterious,
+and lurking. Overall, this piece hopes to capture the listener on a macroscopic level through it's derivative structure based on Solar
+Ellipse and on a microscopic level through it's varied use of FM and FM BLN in addition to SGS
+and a touch of AGS used in voice-like formant synthesis maneuvers throughout the piece. On a broader spectrum of analysis, the piece
+also employs additive synthesis techniques regarding it's cyclic introduction and removal of tracks from the score, as well as
+pitch paradox as it uses a plethora of elliptical panning that result in fundamental frequencies being heard as synths are leaving and
+returning to the stereo channel.
+
+To dive deeper into the piece's use of FM and FM to create BLN noise, it is crucial to first understand the macro-structure 
+of the work (inspired by Barry Truax's organization method described here: http://www.sfu.ca/~truax/solar.html, for a visual
+reference of this piece's structure and notable reflection points please see Gaimari_final.xlsx). To elaborate, the piece is exactly
+3:05 in duration, divided into 2 halves of 90 seconds and one middle section of 5 seconds. Each half is comprised of 12 sub-segments that
+are 7.5 seconds each. From here the piece can be divided into 11 tracks, 5 FM, 5 FM to produce BLN, 1 SGS & AGS. Essentially each FM synth
+represents a different frequency and FM family, each FM BLN synth represents a different frequency, and the SGS synth represents a continuous
+voice through the piece. The FM synths are enveloped about their carrier ratios and modular indexes based on these ratios, the BLN
+synths are enveloped about their mod indexes to increase and decrease the bandwidth of their spectrum and finally the SGS synth transitions between
+formants is modulated by an envelope with regards to its amplitude.
+
